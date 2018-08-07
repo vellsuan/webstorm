@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="birth" />
+      <item value="third" />
+      <item value="thir" />
       <item value="Discover interesting projects and people to populate your personal news feed." />
       <item value="explore" />
       <item value="pull request" />
@@ -19,9 +22,6 @@
       <item value="a low level" />
       <item value="presented" />
       <item value="concepts" />
-      <item value="Throughout" />
-      <item value="implementation" />
-      <item value="essential" />
     </histories>
   </component>
 </application>

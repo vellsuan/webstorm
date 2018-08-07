@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="Discover interesting projects and people to populate your personal news feed." />
+      <item value="explore" />
       <item value="pull request" />
       <item value="pull" />
       <item value="一个编程海盗" />
@@ -20,8 +22,6 @@
       <item value="Throughout" />
       <item value="implementation" />
       <item value="essential" />
-      <item value="even" />
-      <item value="master" />
     </histories>
   </component>
 </application>

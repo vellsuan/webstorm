@@ -1,3 +1,13 @@
 <templateSet group="JavaScript">
   <template name="fitter" value="let str = 123&#10;" description="用于筛选某是否存在某值" toReformat="true" toShortenFQNames="true" />
+  <template name="serchStr" value="let indexf = 123" description="检索字符串" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="distinc" value="let str = '去重'" description="去重" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>

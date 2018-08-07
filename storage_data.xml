@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="去重" />
       <item value="overwrite" />
       <item value="https://github.com/vellsuan/webstorm.git" />
       <item value="cannot open git-receive-pack" />
@@ -21,7 +22,6 @@
       <item value="developers" />
       <item value="conclude" />
       <item value="projects" />
-      <item value="non-blocking" />
     </histories>
   </component>
 </application>

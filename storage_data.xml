@@ -2,6 +2,12 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="pull request" />
+      <item value="pull" />
+      <item value="一个编程海盗" />
+      <item value="黑胡子" />
+      <item value="manage" />
+      <item value="同步" />
       <item value="去重" />
       <item value="overwrite" />
       <item value="https://github.com/vellsuan/webstorm.git" />
@@ -16,12 +22,6 @@
       <item value="essential" />
       <item value="even" />
       <item value="master" />
-      <item value="characteristics" />
-      <item value="architecture" />
-      <item value="least" />
-      <item value="developers" />
-      <item value="conclude" />
-      <item value="projects" />
     </histories>
   </component>
 </application>

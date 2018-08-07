@@ -1,0 +1,12 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="textmate" injector-id="xml">
+      <display-name>li</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("li")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+    </injection>
+    <injection language="Vue" injector-id="xml">
+      <display-name>ul</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("ul")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+    </injection>
+  </component>
+</application>

@@ -1,0 +1,17 @@
+<application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="18" />
+    <option name="FONT_FAMILY" value="Source Code Pro" />
+    <option name="SECONDARY_FONT_FAMILY" value="Lucida Sans Typewriter" />
+  </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="HTML" value="true" />
+        <entry key="Vue" value="true" />
+      </map>
+    </option>
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+  </component>
+</application>

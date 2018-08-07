@@ -1,0 +1,12 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="GotoTypeDeclaration">
+    <mouse-shortcut keystroke="shift control button1" />
+  </action>
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
+  <action id="ToggleBookmark7" />
+  <action id="com.eslint">
+    <keyboard-shortcut first-keystroke="shift ctrl 7" />
+  </action>
+</keymap>

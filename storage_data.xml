@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="验证码" />
       <item value="birth" />
       <item value="third" />
       <item value="thir" />
@@ -21,7 +22,6 @@
       <item value="scalable" />
       <item value="a low level" />
       <item value="presented" />
-      <item value="concepts" />
     </histories>
   </component>
 </application>

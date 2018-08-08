@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="特殊" />
+      <item value="问题集" />
       <item value="爬虫" />
       <item value="similar" />
       <item value="extraneous" />
@@ -20,8 +22,6 @@
       <item value="remote" />
       <item value="Updates" />
       <item value="failed" />
-      <item value="fetch" />
-      <item value="rejected" />
     </histories>
   </component>
 </application>

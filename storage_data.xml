@@ -2,26 +2,26 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="necessary" />
+      <item value="associated" />
+      <item value="remote refs" />
+      <item value="details" />
+      <item value="fast-forwards" />
+      <item value="integrate" />
+      <item value="contains" />
+      <item value="remote" />
+      <item value="Updates" />
+      <item value="failed" />
+      <item value="fetch" />
+      <item value="rejected" />
+      <item value="locally" />
+      <item value="loc" />
+      <item value="refs" />
       <item value="验证码" />
       <item value="birth" />
       <item value="third" />
       <item value="thir" />
       <item value="Discover interesting projects and people to populate your personal news feed." />
-      <item value="explore" />
-      <item value="pull request" />
-      <item value="pull" />
-      <item value="一个编程海盗" />
-      <item value="黑胡子" />
-      <item value="manage" />
-      <item value="同步" />
-      <item value="去重" />
-      <item value="overwrite" />
-      <item value="https://github.com/vellsuan/webstorm.git" />
-      <item value="cannot open git-receive-pack" />
-      <item value="internet" />
-      <item value="scalable" />
-      <item value="a low level" />
-      <item value="presented" />
     </histories>
   </component>
 </application>

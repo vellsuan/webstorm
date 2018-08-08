@@ -2,6 +2,14 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="爬虫" />
+      <item value="similar" />
+      <item value="extraneous" />
+      <item value="nicely formatted list" />
+      <item value="provides" />
+      <item value="command" />
+      <item value="simple" />
+      <item value="convert" />
       <item value="necessary" />
       <item value="associated" />
       <item value="remote refs" />
@@ -14,14 +22,6 @@
       <item value="failed" />
       <item value="fetch" />
       <item value="rejected" />
-      <item value="locally" />
-      <item value="loc" />
-      <item value="refs" />
-      <item value="验证码" />
-      <item value="birth" />
-      <item value="third" />
-      <item value="thir" />
-      <item value="Discover interesting projects and people to populate your personal news feed." />
     </histories>
   </component>
 </application>

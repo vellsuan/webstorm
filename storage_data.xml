@@ -2,6 +2,15 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="tags" />
+      <item value="tag" />
+      <item value="start at" />
+      <item value="Uncover" />
+      <item value="team" />
+      <item value="display" />
+      <item value="field" />
+      <item value="stored" />
+      <item value="columns" />
       <item value="necessity" />
       <item value="小程序" />
       <item value="特殊" />
@@ -13,15 +22,6 @@
       <item value="provides" />
       <item value="command" />
       <item value="simple" />
-      <item value="convert" />
-      <item value="necessary" />
-      <item value="associated" />
-      <item value="remote refs" />
-      <item value="details" />
-      <item value="fast-forwards" />
-      <item value="integrate" />
-      <item value="contains" />
-      <item value="remote" />
     </histories>
   </component>
 </application>

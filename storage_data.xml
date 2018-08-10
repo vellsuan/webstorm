@@ -2,6 +2,15 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="test" />
+      <item value="Publish environment 'test' sftp failures, Timed out while waiting for handshake" />
+      <item value="sftp" />
+      <item value="total" />
+      <item value="completed" />
+      <item value="mission" />
+      <item value="handshake" />
+      <item value="failures" />
+      <item value="publish" />
       <item value="tags" />
       <item value="tag" />
       <item value="start at" />
@@ -13,15 +22,6 @@
       <item value="columns" />
       <item value="necessity" />
       <item value="小程序" />
-      <item value="特殊" />
-      <item value="问题集" />
-      <item value="爬虫" />
-      <item value="similar" />
-      <item value="extraneous" />
-      <item value="nicely formatted list" />
-      <item value="provides" />
-      <item value="command" />
-      <item value="simple" />
     </histories>
   </component>
 </application>

@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="compiled" />
       <item value="享受会员价" />
       <item value="工程师" />
       <item value="身躯" />
@@ -21,7 +22,6 @@
       <item value="学习" />
       <item value="save" />
       <item value="test" />
-      <item value="Publish environment 'test' sftp failures, Timed out while waiting for handshake" />
     </histories>
   </component>
 </application>

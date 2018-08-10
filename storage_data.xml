@@ -2,6 +2,12 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="会员" />
+      <item value="清除会员" />
+      <item value="卡片" />
+      <item value="卡" />
+      <item value="查卡" />
+      <item value="未修改" />
       <item value="compiled" />
       <item value="享受会员价" />
       <item value="工程师" />
@@ -16,12 +22,6 @@
       <item value="dark" />
       <item value="shot" />
       <item value="cropped" />
-      <item value="cropp" />
-      <item value="svg 转 pdf" />
-      <item value="截图" />
-      <item value="学习" />
-      <item value="save" />
-      <item value="test" />
     </histories>
   </component>
 </application>

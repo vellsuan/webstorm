@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="会员" />
+      <item value="金额" />
+      <item value="折让" />
+      <item value="这让金额" />
       <item value="tab" />
       <item value="scount" />
       <item value="zDiscount" />
-      <item value="会员" />
       <item value="清除会员" />
       <item value="卡片" />
       <item value="卡" />
@@ -19,9 +22,6 @@
       <item value="截取" />
       <item value="resize" />
       <item value="It ended up taking the chunk of text and blowing it up" />
-      <item value="dice" />
-      <item value="custom" />
-      <item value="support" />
     </histories>
   </component>
 </application>

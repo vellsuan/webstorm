@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="合计" />
       <item value="会员" />
       <item value="金额" />
       <item value="折让" />
@@ -21,7 +22,6 @@
       <item value="截屏" />
       <item value="截取" />
       <item value="resize" />
-      <item value="It ended up taking the chunk of text and blowing it up" />
     </histories>
   </component>
 </application>

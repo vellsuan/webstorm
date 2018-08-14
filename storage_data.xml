@@ -2,6 +2,12 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="to url" />
+      <item value="to rul" />
+      <item value="form" />
+      <item value="form url" />
+      <item value="relocate" />
+      <item value="reloc" />
       <item value="合计" />
       <item value="会员" />
       <item value="金额" />
@@ -16,12 +22,6 @@
       <item value="查卡" />
       <item value="未修改" />
       <item value="compiled" />
-      <item value="享受会员价" />
-      <item value="工程师" />
-      <item value="身躯" />
-      <item value="截屏" />
-      <item value="截取" />
-      <item value="resize" />
     </histories>
   </component>
 </application>

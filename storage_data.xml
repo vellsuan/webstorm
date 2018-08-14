@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="hash" />
       <item value="indude extrmals" />
       <item value="indude" />
       <item value="Base checksum mismatch" />
@@ -21,7 +22,6 @@
       <item value="scount" />
       <item value="zDiscount" />
       <item value="清除会员" />
-      <item value="卡片" />
     </histories>
   </component>
 </application>

@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="翻译" />
+      <item value="outer Visible" />
+      <item value="inner Click" />
+      <item value="inner Click () {" />
       <item value="bookmark" />
       <item value="toggle case" />
       <item value="case" />
@@ -18,10 +22,6 @@
       <item value="clip" />
       <item value="popup" />
       <item value="diagrams" />
-      <item value="encoding" />
-      <item value="当前" />
-      <item value="curr" />
-      <item value="curritem" />
     </histories>
   </component>
 </application>

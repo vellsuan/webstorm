@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="actual" />
+      <item value="expected" />
       <item value="mismatch" />
       <item value="checksum" />
       <item value="failed" />
@@ -20,8 +22,6 @@
       <item value="folding" />
       <item value="fol" />
       <item value="put label" />
-      <item value="usages" />
-      <item value="clipboard" />
     </histories>
   </component>
 </application>

@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="POSIX" />
       <item value="hash" />
       <item value="indude extrmals" />
       <item value="indude" />
@@ -21,7 +22,6 @@
       <item value="tab" />
       <item value="scount" />
       <item value="zDiscount" />
-      <item value="清除会员" />
     </histories>
   </component>
 </application>

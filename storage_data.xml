@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="reported" />
       <item value="to url" />
       <item value="to rul" />
       <item value="form" />
@@ -21,7 +22,6 @@
       <item value="卡" />
       <item value="查卡" />
       <item value="未修改" />
-      <item value="compiled" />
     </histories>
   </component>
 </application>

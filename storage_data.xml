@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="mismatch" />
+      <item value="checksum" />
+      <item value="failed" />
       <item value="翻译" />
       <item value="outer Visible" />
       <item value="inner Click" />
@@ -19,9 +22,6 @@
       <item value="put label" />
       <item value="usages" />
       <item value="clipboard" />
-      <item value="clip" />
-      <item value="popup" />
-      <item value="diagrams" />
     </histories>
   </component>
 </application>

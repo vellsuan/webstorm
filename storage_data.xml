@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="computed" />
       <item value="取消" />
       <item value="不变" />
       <item value="no" />
@@ -21,7 +22,6 @@
       <item value="toggle case" />
       <item value="case" />
       <item value="mode" />
-      <item value="power" />
     </histories>
   </component>
 </application>

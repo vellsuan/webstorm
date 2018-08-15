@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="Cleanup" />
       <item value="actual" />
       <item value="expected" />
       <item value="mismatch" />
@@ -21,7 +22,6 @@
       <item value="generate" />
       <item value="folding" />
       <item value="fol" />
-      <item value="put label" />
     </histories>
   </component>
 </application>

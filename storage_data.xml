@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="二级" />
       <item value="实际" />
       <item value="safa" />
       <item value="computed" />
@@ -21,7 +22,6 @@
       <item value="inner Click" />
       <item value="inner Click () {" />
       <item value="bookmark" />
-      <item value="toggle case" />
     </histories>
   </component>
 </application>

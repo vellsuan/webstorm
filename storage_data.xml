@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="bundling" />
       <item value="地址" />
       <item value="级联" />
       <item value="联动" />
@@ -21,7 +22,6 @@
       <item value="expected" />
       <item value="mismatch" />
       <item value="checksum" />
-      <item value="failed" />
     </histories>
   </component>
 </application>

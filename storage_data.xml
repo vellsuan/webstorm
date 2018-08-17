@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="地址" />
+      <item value="级联" />
+      <item value="联动" />
+      <item value="section" />
+      <item value="三级联动" />
       <item value="二级" />
       <item value="实际" />
       <item value="safa" />
@@ -17,11 +22,6 @@
       <item value="mismatch" />
       <item value="checksum" />
       <item value="failed" />
-      <item value="翻译" />
-      <item value="outer Visible" />
-      <item value="inner Click" />
-      <item value="inner Click () {" />
-      <item value="bookmark" />
     </histories>
   </component>
 </application>

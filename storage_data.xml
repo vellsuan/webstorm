@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="augs" />
+      <item value="aug" />
       <item value="组件" />
       <item value="bundling" />
       <item value="地址" />
@@ -20,8 +22,6 @@
       <item value="权限" />
       <item value="Cleanup" />
       <item value="actual" />
-      <item value="expected" />
-      <item value="mismatch" />
     </histories>
   </component>
 </application>

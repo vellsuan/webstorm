@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="算法" />
       <item value="练习" />
       <item value="RESTful" />
       <item value="modified" />
@@ -21,7 +22,6 @@
       <item value="取消" />
       <item value="不变" />
       <item value="no" />
-      <item value="初始化" />
     </histories>
   </component>
 </application>

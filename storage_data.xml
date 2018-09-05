@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="地球" />
+      <item value="地图" />
       <item value="企业介绍" />
       <item value="Origin" />
       <item value="算法" />
@@ -20,8 +22,6 @@
       <item value="二级" />
       <item value="实际" />
       <item value="safa" />
-      <item value="computed" />
-      <item value="取消" />
     </histories>
   </component>
 </application>

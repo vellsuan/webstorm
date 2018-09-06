@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="相对" />
       <item value="战略" />
       <item value="核心价值观" />
       <item value="地球" />
@@ -21,7 +22,6 @@
       <item value="联动" />
       <item value="section" />
       <item value="三级联动" />
-      <item value="二级" />
     </histories>
   </component>
 </application>

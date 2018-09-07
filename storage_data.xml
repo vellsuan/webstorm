@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="SyntaxError" />
+      <item value="Invalid or unexpected token" />
       <item value="核心价值观" />
       <item value="社会" />
       <item value="gray" />
@@ -20,8 +22,6 @@
       <item value="RESTful" />
       <item value="modified" />
       <item value="augs" />
-      <item value="aug" />
-      <item value="组件" />
     </histories>
   </component>
 </application>

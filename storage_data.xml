@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="super" />
       <item value="instances" />
       <item value="modified" />
       <item value="pop" />
@@ -21,7 +22,6 @@
       <item value="地图" />
       <item value="企业介绍" />
       <item value="Origin" />
-      <item value="算法" />
     </histories>
   </component>
 </application>

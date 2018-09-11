@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="Recursive" />
+      <item value="描述" />
       <item value="新闻详情" />
       <item value="新闻列表" />
       <item value="super" />
@@ -20,8 +22,6 @@
       <item value="详情" />
       <item value="相对" />
       <item value="战略" />
-      <item value="地球" />
-      <item value="地图" />
     </histories>
   </component>
 </application>

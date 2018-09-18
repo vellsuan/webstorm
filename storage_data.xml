@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="ReferenceError" />
       <item value="argv" />
       <item value="failed" />
       <item value="faild" />
@@ -21,7 +22,6 @@
       <item value="社会" />
       <item value="gray" />
       <item value="灰色" />
-      <item value="detail" />
     </histories>
   </component>
 </application>

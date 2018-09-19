@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="deprecated" />
+      <item value="thread" />
       <item value="殊荣" />
       <item value="企业" />
       <item value="ReferenceError" />
@@ -20,8 +22,6 @@
       <item value="Invalid or unexpected token" />
       <item value="shift" />
       <item value="核心价值观" />
-      <item value="SyntaxError" />
-      <item value="社会" />
     </histories>
   </component>
 </application>

@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="菜单" />
       <item value="角色" />
       <item value="投资" />
       <item value="baseMsg" />
@@ -21,7 +22,6 @@
       <item value="新闻详情" />
       <item value="新闻列表" />
       <item value="super" />
-      <item value="instances" />
     </histories>
   </component>
 </application>

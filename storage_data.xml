@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="defined" />
+      <item value="自定义" />
       <item value="生成器" />
       <item value="迭代" />
       <item value="固定" />
@@ -20,8 +22,6 @@
       <item value="argv" />
       <item value="failed" />
       <item value="faild" />
-      <item value="hack" />
-      <item value="Recursive" />
     </histories>
   </component>
 </application>

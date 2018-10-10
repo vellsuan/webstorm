@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="entry" />
       <item value="牌子" />
       <item value="详情" />
       <item value="构造器" />
@@ -21,7 +22,6 @@
       <item value="deprecated" />
       <item value="thread" />
       <item value="殊荣" />
-      <item value="企业" />
     </histories>
   </component>
 </application>

@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="scale" />
+      <item value="initial" />
       <item value="divider" />
       <item value="emojis" />
       <item value="Invalid" />
@@ -20,8 +22,6 @@
       <item value="菜单" />
       <item value="角色" />
       <item value="投资" />
-      <item value="baseMsg" />
-      <item value="账户余额详情" />
     </histories>
   </component>
 </application>

@@ -1,44 +1,24 @@
 <application>
   <component name="libraryTable">
     <library name="css-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_css_index.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_css_index.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="images-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_images_index.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_images_index.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="systemjs-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_systemjs_index.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_systemjs_index.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="w3c-image-capture-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_w3c-image-capture_index.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_w3c-image-capture_index.d.ts" />
       </CLASSES>

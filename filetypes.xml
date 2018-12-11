@@ -9,22 +9,23 @@
       <mapping pattern="txt" type="PLAIN_TEXT" />
       <mapping pattern="用户中心" type="PLAIN_TEXT" />
       <mapping pattern="model2" type="PLAIN_TEXT" />
+      <mapping pattern="max" type="PLAIN_TEXT" />
       <mapping pattern="text" type="PLAIN_TEXT" />
       <mapping pattern="En" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern="note" type="PLAIN_TEXT" />
       <mapping pattern="bug" type="PLAIN_TEXT" />
-      <mapping pattern="6note" type="PLAIN_TEXT" />
       <mapping pattern="txte" type="PLAIN_TEXT" />
       <mapping pattern="tetx" type="PLAIN_TEXT" />
       <mapping pattern="笔记" type="PLAIN_TEXT" />
-      <mapping pattern="max" type="PLAIN_TEXT" />
+      <mapping pattern="6note" type="PLAIN_TEXT" />
       <mapping pattern="投资模块" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="xtpl" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
+      <mapping ext="lnk" type="PLAIN_TEXT" />
       <mapping ext="ttc" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
